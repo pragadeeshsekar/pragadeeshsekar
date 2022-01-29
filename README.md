@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pragadeeshsekar
-- 👀 I’m interested in automating everything possible cases 
-- 🌱 I’m currently learning DSA with help of scaler academy
+- 👀 I’m interested in DevOps & Test Automation
+- 🌱 I’m currently learning some more concepts in DSA 
 - 💞️ I’m looking to collaborate on Github - willing to take up any python programming activity
 - 📫 Reach me on linkedin pragadeeshsekar
 
