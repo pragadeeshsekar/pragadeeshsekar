@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pragadeeshsekar
 - 👀 I’m interested in DevOps & Test Automation
 - 🌱 I’m currently learning DSA with Scaler Academy 
-- 💞️ I’m looking to collaborate on Github - willing to take up any python projects
+- 💞️ I’m looking to collaborate on Github - willing to contibute in python projects
 - 📫 Reach me on linkedin pragadeeshsekar
 
 <!---
